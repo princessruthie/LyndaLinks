@@ -27,3 +27,25 @@ https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate
 https://github.com/claudiosmweb/wordpress-plugin-boilerplate
 
 https://github.com/ptahdunbar/wp-skeleton-plugin
+
+03-08
+poedit
+http://www.poedit.net
+
+loco translate
+https://wordpress.org/plugins/loco-translate
+
+l18n for wp devs
+https://codex.wordpress.org/l18n_for_WordPress_Developers
+
+internationalize your plugin
+https://developer.wordpress.org/plugins/internationalization/how-to-internationalize-your-plugin
+
+i18n theme handbook
+https://developer.wordpress.org/themes/functionality/internationalization
+
+code styling l18n
+https://wordpress.org/plugins/loco-translate
+
+glotpress
+https://glotpress.blog
