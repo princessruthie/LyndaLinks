@@ -92,3 +92,15 @@ https://developer.wordpress.org/reference/functions/remove_role
 04-05
 
 https://codex.wordpress.org/Options_API
+
+05-04
+
+https://codex.wordpress.org/Class_Reference/wpdb
+
+https://developer.wordpress.org/reference/classes/wpdb/#methods
+
+https://codex.wordpress.org/Class_Reference/wpdb
+
+05-05
+
+https://goo.gl/ioxtGS
