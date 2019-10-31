@@ -1,5 +1,7 @@
 # LyndaLinks
 
+The in-video links on Lynda/LinkeIn Learning are inconvenient. Lets improve our flow by collecting the links here.
+
 
  WordPress Plugin Development
 
